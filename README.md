@@ -2,5 +2,3 @@
 Information here
 
 More stuff
-
-Things here
